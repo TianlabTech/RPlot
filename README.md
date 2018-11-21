@@ -1,4 +1,4 @@
 # RPlot
 Rplot_script
 
-1. Volcano plot
+1 Volcano plot
